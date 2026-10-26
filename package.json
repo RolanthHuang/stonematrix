@@ -1,0 +1,8 @@
+{
+  "name": "stone-matrix",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Stone Matrix 3D floating stone demo",
+  "scripts": { "build": "node build.mjs" },
+  "devDependencies": { "esbuild": "0.25.11", "three": "0.180.0" }
+}
